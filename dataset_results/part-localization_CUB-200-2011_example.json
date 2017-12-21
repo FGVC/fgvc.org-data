@@ -5,6 +5,7 @@
   "method_details": {
     "method_name": "Birdlets-14",
     "method_description": "Birdlets algorithm of Farrell, et al., ICCV 2011.  Trained and evaluated only on the 14-category Vireo/Woodpecker subset.  Evaluation is intended to be PCK.",
+    "train_test_split": "default",
     "training_annotations":["parts"],
     "testing_annotations": [""],
     "base_architecture": "ResNet-50",
