@@ -12,7 +12,7 @@
     "other_notes": "Method does not really use deep learning, only have the base_architecture and pretrained_on fields for the formatting example."
   },
   "predictions": {
-    "Black_Footed_Albatross_0001_796111.jpg": {
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0001_796111.jpg": {
       "back":      {"x":0.489, "y":0.202, "visibility":1.0},
       "beak":      {"x":0.415, "y":0.960, "visibility":1.0},
       "belly":     {"x":0.738, "y":0.933, "visibility":1.0},
@@ -29,7 +29,7 @@
       "tail":      {"x":0.710, "y":0.883, "visibility":1.0},
       "throat":    {"x":0.741, "y":0.610, "visibility":1.0}
     },
-    "Black_Footed_Albatross_0002_55.jpg": {
+    "001.Black_footed_Albatross/Black_Footed_Albatross_0002_55.jpg": {
       "back":      {"x":0.251, "y":0.614, "visibility":1.0},
       "beak":      {"x":0.624, "y":0.999, "visibility":1.0},
       "belly":     {"x":0.044, "y":0.933, "visibility":1.0},
@@ -46,7 +46,7 @@
       "tail":      {"x":0.035, "y":0.446, "visibility":1.0},
       "throat":    {"x":0.896, "y":0.630, "visibility":1.0}
     },
-    "Common_Yellowthroat_0126_190407.jpg": {
+    "200.Common_Yellowthroat/Common_Yellowthroat_0126_190407.jpg": {
       "back":      {"x":0.531, "y":0.320, "visibility":1.0},
       "beak":      {"x":0.725, "y":0.479, "visibility":1.0},
       "belly":     {"x":0.392, "y":0.703, "visibility":1.0},
