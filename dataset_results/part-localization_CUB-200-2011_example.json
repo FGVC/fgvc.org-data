@@ -1,11 +1,15 @@
 {
-  "dataset":   "CUB-200-2011",
+  "dataset":  "CUB-200-2011",
   "task":      "part-localization",
-  "method_id": "UNIQUE_PAPER_IDENTIFIER",
+  "paper_id": "FarrellOZMDD_ICCV2011",
   "method_details": {
+    "method_name": "Birdlets-14",
+    "method_description": "Birdlets algorithm of Farrell, et al., ICCV 2011.  Trained and evaluated only on the 14-category Vireo/Woodpecker subset.  Evaluation is intended to be PCK",
     "training_annotations":["parts"],
-    "testing_annotations": [],
-    "other": []
+    "testing_annotations": [""],
+    "base_architecture": "ResNet-50",
+    "pretrained_on": "ImageNet",
+    "other_notes": "Method does not really use deep learning, only have the base_architecture and pretrained_on fields for the formatting example."
   },
   "predictions": {
     "Black_Footed_Albatross_0001_796111.jpg": {
