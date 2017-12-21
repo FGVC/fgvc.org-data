@@ -1,0 +1,63 @@
+{
+  "dataset":   "CUB-200-2011",
+  "task":      "part-localization",
+  "method_id": "UNIQUE_PAPER_IDENTIFIER",
+  "method_details": {
+    "training_annotations":["parts"],
+    "testing_annotations": [],
+    "other": []
+  },
+  "predictions": {
+    "Black_Footed_Albatross_0001_796111.jpg": {
+      "back":      {"x":0.489, "y":0.202, "visibility":1.0},
+      "beak":      {"x":0.415, "y":0.960, "visibility":1.0},
+      "belly":     {"x":0.738, "y":0.933, "visibility":1.0},
+      "breast":    {"x":0.872, "y":0.547, "visibility":1.0},
+      "crown":     {"x":0.540, "y":0.387, "visibility":1.0},
+      "forehead":  {"x":0.660, "y":0.892, "visibility":1.0},
+      "left eye":  {"x":0.015, "y":0.533, "visibility":1.0},
+      "left leg":  {"x":0.523, "y":0.558, "visibility":1.0},
+      "left wing": {"x":0.119, "y":0.285, "visibility":1.0},
+      "nape":      {"x":0.569, "y":0.819, "visibility":1.0},
+      "right eye": {"x":0.841, "y":0.166, "visibility":1.0},
+      "right leg": {"x":0.318, "y":0.013, "visibility":1.0},
+      "right wing":{"x":0.394, "y":0.329, "visibility":1.0},
+      "tail":      {"x":0.710, "y":0.883, "visibility":1.0},
+      "throat":    {"x":0.741, "y":0.610, "visibility":1.0}
+    },
+    "Black_Footed_Albatross_0002_55.jpg": {
+      "back":      {"x":0.251, "y":0.614, "visibility":1.0},
+      "beak":      {"x":0.624, "y":0.999, "visibility":1.0},
+      "belly":     {"x":0.044, "y":0.933, "visibility":1.0},
+      "breast":    {"x":0.721, "y":0.551, "visibility":1.0},
+      "crown":     {"x":0.054, "y":0.847, "visibility":1.0},
+      "forehead":  {"x":0.323, "y":0.111, "visibility":1.0},
+      "left eye":  {"x":0.861, "y":0.221, "visibility":1.0},
+      "left leg":  {"x":0.464, "y":0.133, "visibility":1.0},
+      "left wing": {"x":0.047, "y":0.410, "visibility":1.0},
+      "nape":      {"x":0.971, "y":0.483, "visibility":1.0},
+      "right eye": {"x":0.986, "y":0.243, "visibility":1.0},
+      "right leg": {"x":0.245, "y":0.927, "visibility":1.0},
+      "right wing":{"x":0.608, "y":0.528, "visibility":1.0},
+      "tail":      {"x":0.035, "y":0.446, "visibility":1.0},
+      "throat":    {"x":0.896, "y":0.630, "visibility":1.0}
+    },
+    "Common_Yellowthroat_0126_190407.jpg": {
+      "back":      {"x":0.531, "y":0.320, "visibility":1.0},
+      "beak":      {"x":0.725, "y":0.479, "visibility":1.0},
+      "belly":     {"x":0.392, "y":0.703, "visibility":1.0},
+      "breast":    {"x":0.231, "y":0.421, "visibility":1.0},
+      "crown":     {"x":0.100, "y":0.234, "visibility":1.0},
+      "forehead":  {"x":0.784, "y":0.179, "visibility":1.0},
+      "left eye":  {"x":0.002, "y":0.698, "visibility":1.0},
+      "left leg":  {"x":0.458, "y":0.184, "visibility":1.0},
+      "left wing": {"x":0.712, "y":0.107, "visibility":1.0},
+      "nape":      {"x":0.310, "y":0.091, "visibility":1.0},
+      "right eye": {"x":0.081, "y":0.271, "visibility":1.0},
+      "right leg": {"x":0.762, "y":0.399, "visibility":1.0},
+      "right wing":{"x":0.993, "y":0.887, "visibility":1.0},
+      "tail":      {"x":0.962, "y":0.365, "visibility":1.0},
+      "throat":    {"x":0.281, "y":0.343, "visibility":1.0}
+    }
+  }
+}
